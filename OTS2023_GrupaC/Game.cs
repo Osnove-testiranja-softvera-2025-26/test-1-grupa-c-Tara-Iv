@@ -114,7 +114,7 @@ namespace OTS2026_GrupaC
             Map.EmptyTileOnLocation(Player.Location);
         }
 
-
+        //ZA PICT
         public Achievement CalculateAchievement()
         {
             if (Player.AmountOfHoneyJars > 11)
